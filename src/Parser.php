@@ -25,7 +25,7 @@ class Parser implements ParserInterface
         return $strings[1];
     }
     
-    public function test()
+    public function test1()
     {
         // feature
     }
